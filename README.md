@@ -1,4 +1,4 @@
-# NodeWebServer - simple web server
+# NodeWebServer - simple node web server
 Simple Node Web server to serve some web page from given folder. In this case it serves simple index.html file from **client/build** folder
 
 ## How to setup
